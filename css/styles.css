@@ -4695,3 +4695,7 @@ input[type="button"].btn--primary:focus {
         margin-right: 1.4rem;
     }
 }
+
+.contact-block__content .mailtoui {
+    white-space: nowrap;
+}
